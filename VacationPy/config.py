@@ -1,1 +1,0 @@
-api_key = "AIzaSyBmpHaPljQzlB-7KOmLL05NgCW9ijt5nkk"
